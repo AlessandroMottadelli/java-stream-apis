@@ -6,7 +6,7 @@ import java.util.SortedMap;
 import java.util.TreeMap;
 import java.util.stream.Collectors;
 
-public class CountDirectFlies {
+public class CountDirectFlies { 
 	public static void main(String[] args) {
 		try {
 			String fileName = "FlightDeparturesAndArrivals/data/Departure_Arrival_CityCode_Direct.csv";
